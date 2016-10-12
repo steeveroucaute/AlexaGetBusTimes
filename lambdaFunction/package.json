@@ -1,0 +1,29 @@
+{
+  "name": "alexagetbustimes",
+  "version": "1.0.0",
+  "description": "Lambda function request specific bus stop arrival data from TFL API",
+  "main": "getBusStopData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steeveroucaute/AlexaGetBusTimes.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Echo",
+    "TFL",
+    "Bus",
+    "LiveTracking"
+  ],
+  "author": "Steeve Roucaute",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steeveroucaute/AlexaGetBusTimes/issues"
+  },
+  "homepage": "https://github.com/steeveroucaute/AlexaGetBusTimes#readme",
+  "dependencies": {
+    "request-promise": "^4.1.1"
+  }
+}

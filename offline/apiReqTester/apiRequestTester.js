@@ -11,13 +11,14 @@ const options = {
 
 request(options)
 	.then(function (response) {
-		var length = response.length;
+		var arrivals = [];
 		// console.log(length);
 		for (var i in response) {
 			console.log("Arrival time bus "  + i + " : " + Math.floor(response[i].timeToStation/60) + " mins");
-
+			arrivals.push(Math.floor(response[i].timeToStation/60));
 		}
 		// console.log(Math.floor(response[1].timeToStation/60
+		console.log(arrivals.sort());
 
 		console.log('SUCCESS');
 	})

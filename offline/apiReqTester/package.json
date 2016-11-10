@@ -1,0 +1,15 @@
+{
+  "name": "apireqtester",
+  "version": "1.0.0",
+  "description": "Tester script to send API requests",
+  "main": "apiRequestTester.js",
+  "scripts": {
+    "test": "node apiRequestTester.js"
+  },
+  "author": "Steeve Roucaute",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.78.0",
+    "request-promise": "^4.1.1"
+  }
+}

@@ -1,0 +1,718 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"productionVariable"
+			],
+			[
+				"some",
+				"someRandomValue"
+			],
+			[
+				"s",
+				"storeData"
+			],
+			[
+				"prodi",
+				"productionObject"
+			],
+			[
+				"produc",
+				"productionObjectVar"
+			],
+			[
+				"data",
+				"dataSource"
+			],
+			[
+				"pricing",
+				"pricingObject"
+			],
+			[
+				"price",
+				"priceStore"
+			],
+			[
+				"dat",
+				"dataSource"
+			],
+			[
+				"con",
+				"convertedPrice"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"object",
+				"objectCount"
+			],
+			[
+				"produ",
+				"productionPrice"
+			],
+			[
+				"bes",
+				"bestImpositionOrientation"
+			],
+			[
+				"sheets",
+				"sheetsRequired"
+			],
+			[
+				"doc",
+				"docHeight"
+			],
+			[
+				"shee",
+				"sheetsRequired"
+			],
+			[
+				"sheet",
+				"sheetCalculator"
+			],
+			[
+				"quan",
+				"quantity"
+			],
+			[
+				"prod",
+				"prodPricingData"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"productionP",
+				"productionPriceObject"
+			],
+			[
+				"ob",
+				"objectiser"
+			],
+			[
+				"th",
+				"theObject"
+			],
+			[
+				"lo",
+				"logSomething"
+			],
+			[
+				"m",
+				"multiObject"
+			],
+			[
+				"local",
+				"localOptionName"
+			],
+			[
+				"log",
+				"logSomething"
+			],
+			[
+				"pr",
+				"pricingFinal"
+			],
+			[
+				"loca",
+				"localOptionName"
+			],
+			[
+				"pricin",
+				"pricingObject"
+			],
+			[
+				"cal",
+				"calculationPrices"
+			],
+			[
+				"quantit",
+				"quantities"
+			],
+			[
+				"opto",
+				"optionID"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"request",
+				"requestBody"
+			],
+			[
+				"que",
+				"queryConstructor"
+			],
+			[
+				"optionsSe",
+				"optionsSelectedQuery"
+			],
+			[
+				"option",
+				"optionsPrices"
+			],
+			[
+				"options",
+				"optionsSelected"
+			],
+			[
+				"optio",
+				"optionsSelected"
+			],
+			[
+				"opt",
+				"optionsSelected"
+			],
+			[
+				"opti",
+				"optionsPrices"
+			],
+			[
+				"connection",
+				"connectionID"
+			],
+			[
+				"teh",
+				"theEnd"
+			],
+			[
+				"conne",
+				"connectionID"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"warning",
+				"warningMaker"
+			],
+			[
+				"greet",
+				"greeter4"
+			],
+			[
+				"gree",
+				"greeter4"
+			],
+			[
+				"gr",
+				"greeter1"
+			],
+			[
+				"Public",
+				"PublicSubnetAcl"
+			],
+			[
+				"Net",
+				"NetworkAclId"
+			],
+			[
+				"Pu",
+				"PublicSubnet1"
+			],
+			[
+				"Subnet",
+				"SubnetId"
+			],
+			[
+				"V",
+				"AllowedValues"
+			],
+			[
+				"Pr",
+				"PrivateRouteTable"
+			],
+			[
+				"S",
+				"SubnetId"
+			],
+			[
+				"Private",
+				"PrivateSubnetRouteTableAssociation1"
+			],
+			[
+				"Subne",
+				"SubnetId"
+			],
+			[
+				"Sub",
+				"SubnetRouteTableAssociation"
+			],
+			[
+				"P",
+				"PublicSubnet2"
+			],
+			[
+				"Su",
+				"SubnetRouteTableAssociation"
+			],
+			[
+				"Rout",
+				"RouteTableId"
+			],
+			[
+				"PublicS",
+				"PublicSubnet1"
+			],
+			[
+				"R",
+				"Ref"
+			],
+			[
+				"Des",
+				"DestinationCidrBlock"
+			],
+			[
+				"Route",
+				"RouteTableId"
+			],
+			[
+				"G",
+				"InternetGateway"
+			],
+			[
+				"Availa",
+				"AvailabilityZone"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Succes",
+				"succesfully"
+			],
+			[
+				"bears",
+				"bears"
+			],
+			[
+				"req",
+				"req"
+			],
+			[
+				"B",
+				"bearSchema"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "prettiify",
+		"selected_items":
+		[
+			[
+				"prettiify",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"git pus",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/steeveroucaute/Dropbox/Dev/AlexaGetBusTimes"
+	],
+	"file_history":
+	[
+		"/Users/steeveroucaute/Dropbox/Dev/AlexaGetBusTimes/lambdaFunction/exports.js",
+		"/Users/steeveroucaute/Desktop/calculator.py",
+		"/Users/steeveroucaute/Downloads/website.travel.tour-type.xml",
+		"/Users/steeveroucaute/Dropbox/Exaprint/AWSRecovery/exportCheckScripts/Windows/VMImportChecker.ps1",
+		"/Users/steeveroucaute/Downloads/instance_checker.sh",
+		"/Users/steeveroucaute/Dropbox/Exaprint/AWSRecovery/detailsJson/role-policy.json",
+		"/Users/steeveroucaute/Dropbox/Exaprint/AWSRecovery/detailsJson/trust-policy.json",
+		"/Users/steeveroucaute/Dropbox/Exaprint/AWSRecovery/detailsJson/importDetails.json",
+		"/Users/steeveroucaute/Dropbox/Dev/AlexaGetBusTimes/lambdaFunction/getBusStopData.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/AWSRecovery/S3DetailsJson/trust-policy.json",
+		"/Users/steeveroucaute/Dropbox/Dev/AlexaGetBusTimes/GetDoubleTreeHiltontwdsSurreyQuays",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/List+Content/newList/TransactionalMails.xml",
+		"/Users/steeveroucaute/Dropbox/Dev/AlexaGetBusTimes/sampleResponseTFLAPI.json",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email17.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email16.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email15.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email14.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email13.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email12.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email11.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email7.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email6.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email5.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email4.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email3.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/html/email2.html",
+		"/Users/steeveroucaute/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/htmlTemplates/GabaritsMails/FR/Gabarit1/email1.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/html/<span style=\"font-family: DIN,Trebuchet MS,sans-se",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/html/<span style=\"font-family: DIN,Trebuchet MS,sans-se.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/templates_Expedito/fr_FR/_list_orders.php",
+		"/Users/steeveroucaute/Dropbox/Exaprint/projectABC/transactionalEmails/templates/en_GB/_list_orders.php",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/calculatorCode/calculator.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/datasource.json",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/dataSourceSorter.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/cleanerVersion.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/cleanerVersion2Revert.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/cleanerVersion3.js",
+		"/Users/steeveroucaute/Desktop/constructor.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/tryThis.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/dataSorter.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/datasource2.json",
+		"/Users/steeveroucaute/Desktop/AlexaDev/NOTICE.txt",
+		"/Users/steeveroucaute/Desktop/AlexaDev/LICENSE.txt",
+		"/Users/steeveroucaute/Desktop/AlexaDev/README.md",
+		"/Users/steeveroucaute/Desktop/xmlSchema/123456_StatusPostDispatched.xml",
+		"/Users/steeveroucaute/Desktop/xmlSchema/123456_StatusPostFailed.xml",
+		"/Users/steeveroucaute/Desktop/xmlSchema/123456_StatusPostIntegrated.xml",
+		"/Users/steeveroucaute/Desktop/xmlSchema/OrderRevised.xml",
+		"/Users/steeveroucaute/Desktop/nodeApi/package.json",
+		"/Users/steeveroucaute/Dropbox/LawrenceWharf/collectiveEnfranchisement/site/index.html",
+		"/Users/steeveroucaute/Dropbox/LawrenceWharf/collectiveEnfranchisement/site/css/main2.css",
+		"/Users/steeveroucaute/Desktop/desktopJunk/productsAPITesting/products.json",
+		"/Users/steeveroucaute/Desktop/desktopJunk/productsAPITesting/productsLive.json",
+		"/Users/steeveroucaute/Desktop/desktopJunk/productsAPITesting/Cimpressproducts.js",
+		"/Users/steeveroucaute/Dropbox/LawrenceWharf/collectiveEnfranchisement/site/qa.html",
+		"/Users/steeveroucaute/Dropbox/LawrenceWharf/collectiveEnfranchisement/site/css/main4.css",
+		"/Users/steeveroucaute/Desktop/desktopJunk/exacatalog_AWS_API.postman_test_run",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/objectConstructor.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/query.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/sqlformatter.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/impositionCalculator.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/onlineTester/dbtester.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/calculatorCodeComponents/dbQueries.sql",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/offlineTester/connection.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/AWSComponentsDetails/calculator details",
+		"/Users/steeveroucaute/Desktop/desktopJunk/lambdaRds/app.py",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/calculatorCode/test.txt",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/api/calculatorCode/consoleError.js",
+		"/Users/steeveroucaute/lambdaTraining/commandsLog",
+		"/Users/steeveroucaute/Desktop/desktopJunk/testIFrame.html",
+		"/Users/steeveroucaute/lambdaTraining/text.txt",
+		"/Users/steeveroucaute/lambdaTraining/helloworld.js",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/code/frontEnd/apollo_catalogProtoFront/src/app/modules/products/createModal/products.createModal.controller.js",
+		"/Users/steeveroucaute/lambdaTraining/object.json",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/catalogPrototype/code/apollo_catalogProtoFront/build.zip",
+		"/Users/steeveroucaute/Desktop/desktopJunk/lwFeeehold/main2.css",
+		"/Users/steeveroucaute/Desktop/desktopJunk/warningMaker.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/feedback0507",
+		"/Users/steeveroucaute/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/0F195C9D-DEAD-4EDE-9CB0-2E16A1986187/files/untitled.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/feedback1.txt",
+		"/Users/steeveroucaute/dev/restifyAPI/node_modules/mongoose/lib/schema.js",
+		"/Users/steeveroucaute/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/64EF888B-14C8-4ED6-9099-B69D28A1B482/files/request-json-full.json",
+		"/Users/steeveroucaute/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/64EF888B-14C8-4ED6-9099-B69D28A1B482/files/schema.xsd",
+		"/Users/steeveroucaute/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/64EF888B-14C8-4ED6-9099-B69D28A1B482/files/template.xsl",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/udemyCode/D11_ModulePatterns/Finished/app.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/udemyCode/D11_ModulePatterns/Finished/greet1.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/udemyCode/D11_ModulePatterns/Finished/greet2.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/udemyCode/D11_ModulePatterns/Finished/greet3.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/udemyCode/D11_ModulePatterns/Finished/greet4.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/udemyCode/D11_ModulePatterns/Finished/greet5.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/require/greeting/greetings.json",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/require/greeting/greeter.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/require/greeting/index.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/require/app.js",
+		"/Users/steeveroucaute/Downloads/D9_MoreOnRequire/Finished/greet/greetings.json",
+		"/Users/steeveroucaute/Downloads/D9_MoreOnRequire/Finished/greet/spanish.js",
+		"/Users/steeveroucaute/Downloads/D9_MoreOnRequire/Finished/greet/english.js",
+		"/Users/steeveroucaute/Downloads/D9_MoreOnRequire/Finished/app.js",
+		"/Users/steeveroucaute/Downloads/D9_MoreOnRequire/Finished/greet/index.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/require/greeting/english.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/nodeTraining/require/greeting/spanish.js",
+		"/Users/steeveroucaute/Downloads/bashscript.sh",
+		"/Users/steeveroucaute/Downloads/D9_MoreOnRequire/Starter/app.js",
+		"/Users/steeveroucaute/Downloads/newVPC_Instances.pem",
+		"/Users/steeveroucaute/Desktop/sheetcalculator.py",
+		"/Users/steeveroucaute/Downloads/bash2.sh",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/cloudGuru/bashScripts/healthcheck.html",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/cloudGuru/bashScripts/index.html",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/cloudGuru/keyPairs/myWindowsKey.pem",
+		"/Users/steeveroucaute/Desktop/data.txt",
+		"/Users/steeveroucaute/Desktop/catalogPrototype/chart/pricing.js",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/cloudGuru/cdn/index.html",
+		"/Users/steeveroucaute/Desktop/desktopJunk/ToDo3105",
+		"/Users/steeveroucaute/Desktop/desktopJunk/getIp.html",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/cloudGuru/bucketversioning",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/ascalingSpot/spl41-spot-with-autoscaling-command-reference.txt",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/cloudFront/spl36-caching-static-files-command-reference.txt",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/cloudFront/cf_lab1_test.html",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/ec2/spl01-creating-ec2-linux-command-reference-4.0.txt",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/ebs/spl02-working-ebs-command-reference.txt",
+		"/Users/steeveroucaute/Desktop/desktopJunk/AWSTraining/spl03-working-elb-command-reference.txt",
+		"/Users/steeveroucaute/dev/app/package.json",
+		"/Users/steeveroucaute/dev/app/models/bear.js",
+		"/Users/steeveroucaute/dev/app/server.js",
+		"/Users/steeveroucaute/Downloads/result.json",
+		"/Users/steeveroucaute/Desktop/desktopJunk/Your Exaprint price table.html",
+		"/Users/steeveroucaute/Dropbox/Exaprint/Apollo/FlorianXML/771589-v2.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Digital",
+			"AssumeRolePolicyDocument",
+			"productionPrice",
+			"62",
+			"\"quantity\": \"1500\"",
+			"\"quantity\": \"2000\"",
+			"\"quantity\": \"500\"",
+			"\"quantity\": \"250\"",
+			"\"quantity\" : \"250\"",
+			"\"quantity\": \"1\"",
+			"\"quantity\": ",
+			"\"quantity\": \"1000\"",
+			"false",
+			");",
+			"ec2-user",
+			"delete",
+			"Confirmation",
+			"productId",
+			"Users steeveroucaute Desktop desktopJunk exaCatalogAPI apollo catalogProtoBack master src routes products js",
+			"greet5",
+			"-",
+			"digital",
+			"bear",
+			"route",
+			"digi",
+			"size"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"quantity\": 1500",
+			"\"quantity\": 2000",
+			"\"quantity\": 500",
+			"\"quantity\": 250",
+			"\"quantity\": 1",
+			"\"quantity\": 1000",
+			"ubuntu",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "alexGetBusTimes.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

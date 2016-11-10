@@ -9,6 +9,7 @@
   "author": "Steeve Roucaute",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.16.6",
     "request": "^2.78.0",
     "request-promise": "^4.1.1"
   }

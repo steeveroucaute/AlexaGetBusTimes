@@ -12,8 +12,11 @@ const options = {
 request(options)
 	.then(function (response) {
 		var length = response.length;
-		console.log(length);
-		console.log("Arrival time bus 1 : " + Math.floor(response[0].timeToStation/60) + " mins"+ '\n'+ "Arrival time bus 2 : " + Math.floor(response[1].timeToStation/60) + " mins");
+		// console.log(length);
+		for (var i in response) {
+			console.log("Arrival time bus "  + i + " : " + Math.floor(response[i].timeToStation/60) + " mins");
+
+		}
 		// console.log(Math.floor(response[1].timeToStation/60
 
 		console.log('SUCCESS');

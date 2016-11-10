@@ -16,8 +16,15 @@ request(options)
 			arrivals.push(Math.floor(response[i].timeToStation/60));
 		}
 		console.log(_.sortBy(arrivals));
-
+		//sort data within arrivals
+		arrivals = _.sortBy(arrivals);
+		//loop through arrivals array
+		for (var z in arrivals){
+			console.log(arrivals[z]);
+		}
+		
 		console.log('SUCCESS');
+		
 	})
 	//error handling
 	.catch(function(err){
